@@ -1,6 +1,6 @@
 # 🎓 Lecturer API — Backend Acceleration Project
 
-> Dibangun sebagai fondasi pembelajaran backend engineering menggunakan Go selama kerja praktik sebelum menangani proyek perusahaan secara langsung.
+> Dibangun sebagai fondasi pembelajaran selama kerja praktik dengan fokus backend engineering menggunakan Go sebelum terlibat langsung ke proyek perusahaan.
 
 ---
 
