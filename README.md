@@ -59,7 +59,7 @@ Route yang tidak terdaftar secara otomatis mengembalikan status `404 Not Found` 
 ## 📁 Project Structure
 
 ```
-lecturer-api/
+lecturer-api-go-fiber/
 ├── main.go              # Entry point: inisialisasi DB, middleware, router, server
 ├── go.mod               # Definisi modul dan dependensi Go
 ├── go.sum               # Checksum dependensi (auto-generated)
@@ -161,8 +161,8 @@ Output yang diharapkan:
 
 ### 6. Build for Production
 ```bash
-go build -o lecturer-api main.go
-./lecturer-api
+go build -o lecturer-api-go-fiber main.go
+./lecturer-api-go-fiber
 ```
 
 ---
