@@ -2,6 +2,18 @@
 
 > Dibangun sebagai fondasi pembelajaran selama kerja praktik dengan fokus backend engineering menggunakan Go sebelum terlibat langsung ke proyek perusahaan.
 
+# 📑 Daftar Isi
+
+- [📌 Project Description](#-project-description)
+- [🛠️ Tech Stack](#️-tech-stack)
+- [✨ Key Features](#-key-features)
+- [📁 Project Structure](#-project-structure)
+- [⚙️ Installation & Running](#️-installation--running)
+- [📡 API Documentation](#-api-documentation)
+- [📚 Learning Outcomes](#-learning-outcomes)
+- [👩‍💻 Author](#-author)
+- [📄 License](#-license)
+
 ---
 
 ## 📌 Project Description
